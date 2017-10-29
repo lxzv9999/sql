@@ -1,0 +1,17 @@
+在app.js 里面新建几个接口
+在routers里面的新建的  item.js
+localhost    127.0.1 一样的
+新建数据库
+baobei
+utf-8 unicode
+排序
+utf-8general_ci
+  数据库的名字叫做宝贝  baobei
+id自动递增
+id    int
+name  varchar
+price   decimal 
+
+
+
+
